@@ -3,7 +3,7 @@
 **[Télécharger la dernière version](https://github.com/romsau/mirmalion-releases/releases/latest)** ·
 **[mirmalion.web.app](https://mirmalion.web.app)**
 
-Mirmalion est une application macOS de dictée et de transcription qui fonctionne **hors ligne** :
+Mirmalion est une application macOS de dictée qui fonctionne **hors ligne** :
 aucun son, aucun texte ne quitte la machine. macOS 26, Apple Silicon.
 
 Ce dépôt ne porte que les binaires publiés. Le code est développé ailleurs, en privé.
